@@ -26,3 +26,5 @@ Template: `py -m pyhashy.py -m MODE -s STRING`
 c04c167fda80d19fdab227af716b7962
 
 Note: If you ever get stuck, type `py -m pyhashy -h`
+
+If you are using linux, or the commands above don't work, try using python3 instead of py. Example: `py -m pyhashy.py -m MODE -s STRING`
